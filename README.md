@@ -18,3 +18,5 @@ Demo / client review. Not the production site.
 
 Built by Deryl Duer (raccoonWhisperer).
 *Auth migrated to SSH on 2026-04-29.*
+
+*Auth migrated to SSH on 2026-04-29.*
