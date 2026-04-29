@@ -2,7 +2,7 @@
 
 Live demo deployed via GitHub Pages.
 
-**Live URL:** https://raccoonwhisperer.github.io/midway-trailers-demo/
+**Live URL:** https://duer-strategy.github.io/midway-trailers-demo/
 
 ## About
 
@@ -17,6 +17,3 @@ Demo / client review. Not the production site.
 ## Contact
 
 Built by Deryl Duer (raccoonWhisperer).
-*Auth migrated to SSH on 2026-04-29.*
-
-*Auth migrated to SSH on 2026-04-29.*
